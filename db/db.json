@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "email": "a",
+      "name": "a",
+      "password": "a",
+      "id": 1
+    },
+    {
+      "email": "m",
+      "name": "m",
+      "password": "m",
+      "id": 2
+    },
+    {
+      "email": "c",
+      "name": "c",
+      "password": "c",
+      "id": 3
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "email": "jack",
+      "name": "jack",
+      "password": "jack",
+      "id": 6
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "test",
+      "address": "test",
+      "contact": "000",
+      "id": 1
+    },
+    {
+      "name": "test2",
+      "address": "test2",
+      "contact": "0000",
+      "id": 2
+    },
+    {
+      "name": "test3",
+      "address": "test3",
+      "contact": "test3",
+      "id": 3
+    },
+    {
+      "name": "sunil",
+      "address": "sahanoi",
+      "contact": "333",
+      "id": 4
+    },
+    {
+      "name": "",
+      "address": "",
+      "contact": "",
+      "id": 5
+    },
+    {
+      "name": "ihkghb",
+      "address": "ub",
+      "contact": "dfb",
+      "id": 6
+    },
+    {
+      "name": "yg",
+      "address": "",
+      "contact": "",
+      "id": 7
+    }
+  ]
+}
