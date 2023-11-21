@@ -2,7 +2,7 @@
    <div class="header">
     <router-link to="/HOME">Home</router-link>
 
-    <router-link to="/add">Add restraurant</router-link>
+    <router-link to="/add">Add restraurant git test</router-link>
     <router-link to="/update">Update restraurant</router-link>
 
     <a v-on:click="logout" href="home">Logout</a>
