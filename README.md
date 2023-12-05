@@ -19,6 +19,14 @@ npm run build
 ```
 npm run lint
 ```
+## in command line
+```
+npm install -g json-server
+```
+## in db file to open cmd
+```
+json-server --watch db.json
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
